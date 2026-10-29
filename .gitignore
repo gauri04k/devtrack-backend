@@ -34,7 +34,6 @@ build/
 
 # Local configuration
 .env
-application-local.properties
 application-local.yml
 
 # OS files
